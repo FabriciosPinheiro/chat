@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Chat
 
-- [Visite o projeto on-line](https://fabriciospinheiro.github.io/nlw-setup/)
+- [Visite o projeto on-line](https://fabriciospinheiro.github.io/chat/)
 
 ## 🔖 Layout
 
